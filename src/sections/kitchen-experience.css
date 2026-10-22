@@ -1,0 +1,667 @@
+/* Chef's Kitchen reference: connected cooking and expert sections. */
+#chefs.kitchen-experience {
+  --kitchen-coral: #cf6e56;
+  background: #111;
+  color: #fff;
+  overflow: hidden;
+  padding: 72px 0 0;
+  position: relative;
+  margin-top: 65px;
+}
+.kitchen-story {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 70px;
+  align-items: center;
+  padding-bottom: 92px;
+}
+.kitchen-portrait {
+  position: relative;
+  z-index: 1;
+}
+.kitchen-portrait > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 640px;
+  object-fit: contain;
+  object-position: bottom;
+}
+.kitchen-story-copy {
+  position: relative;
+  z-index: 2;
+  padding: 12px 0 76px;
+}
+.kitchen-eyebrow {
+  font-size: 12px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #d47961;
+  margin-bottom: 20px;
+}
+.kitchen-story-copy h2 {
+  font-family: var(--font-dm), sans-serif;
+  font-size: clamp(33px, 3.7vw, 52px);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -1.6px;
+  color: #fff;
+  max-width: 540px;
+  margin-bottom: 24px;
+}
+.kitchen-story-copy > p:not(.kitchen-eyebrow) {
+  font-size: 15px;
+  line-height: 1.9;
+  color: #a9a8a6;
+  margin-top: 18px;
+  max-width: 510px;
+}
+.kitchen-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  border-radius: 40px;
+  padding: 19px 29px;
+  background: var(--kitchen-coral);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 30px;
+  border: 1px solid var(--kitchen-coral);
+  transition:
+    background 0.25s,
+    transform 0.25s;
+}
+.kitchen-action:hover {
+  background: transparent;
+  color: #f0a089;
+  transform: translateY(-3px);
+}
+.kitchen-food-art {
+  position: absolute;
+  right: -70px;
+  bottom: -60px;
+  width: 230px;
+  height: auto;
+  z-index: 3;
+  pointer-events: none;
+  transform: rotate(-9deg);
+}
+.kitchen-team {
+  position: relative;
+  background: #171716;
+  padding: 80px 0 78px;
+  border-radius: 80px 80px 0 0;
+}
+.kitchen-team-heading {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.kitchen-team-heading .kitchen-eyebrow {
+  margin-bottom: 17px;
+}
+.kitchen-team-heading h3 {
+  font-family: var(--font-dm), sans-serif;
+  font-size: clamp(29px, 3.3vw, 43px);
+  font-weight: 600;
+  letter-spacing: -1.3px;
+  line-height: 1.2;
+  color: #fff;
+}
+.kitchen-team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 60px;
+  padding: 0 30px;
+}
+.kitchen-expert {
+  text-align: center;
+}
+.kitchen-expert-portrait {
+  position: relative;
+  isolation: isolate;
+  height: 330px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.kitchen-expert-portrait > img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  filter: drop-shadow(0 8px 14px #0001);
+}
+.kitchen-expert-mark {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  right: 14%;
+  bottom: 25%;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #cf6e56;
+  color: #fff;
+  border: 5px solid #171716;
+}
+.kitchen-expert h4 {
+  font-family: var(--font-dm), sans-serif;
+  color: #fff;
+  font-weight: 500;
+  font-size: 23px;
+  margin-top: 24px;
+}
+.kitchen-expert p {
+  font-size: 12px;
+  color: #aaa6a0;
+  margin-top: 10px;
+}
+.restaurant-contact {
+  background: #fffdf8;
+  padding: 66px 0;
+}
+.restaurant-contact-layout {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 80px;
+  align-items: center;
+}
+.restaurant-contact .kitchen-eyebrow {
+  color: #a0603d;
+  font-size: 10px;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+.restaurant-contact h2 {
+  font-size: clamp(30px, 3.2vw, 42px);
+  line-height: 1.25;
+  max-width: 490px;
+}
+.restaurant-contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+.restaurant-contact-links a {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  padding: 17px 20px;
+  background: #f3ede3;
+  border-radius: 16px;
+  color: #5c422b;
+}
+.restaurant-contact-links a > span {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+}
+.restaurant-contact-links a small {
+  display: block;
+  font-size: 11px;
+  font-weight: 400;
+  margin-top: 5px;
+  color: #786957;
+}
+.restaurant-contact-links a:hover {
+  background: #ece2d2;
+}
+#newsletter.kitchen-newsletter {
+  background: #111;
+  padding: 115px 0 90px;
+  overflow: hidden;
+}
+.kitchen-newsletter-card {
+  position: relative;
+  isolation: isolate;
+  min-height: 500px;
+  background: #cf6e56;
+  border-radius: 36px 260px 36px 36px;
+  padding: 76px 80px;
+}
+.kitchen-newsletter-content {
+  position: relative;
+  z-index: 3;
+  width: 64%;
+  max-width: 700px;
+}
+.newsletter-kicker {
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.kitchen-newsletter h2 {
+  font-family: var(--font-dm), sans-serif;
+  font-size: clamp(35px, 4.5vw, 55px);
+  line-height: 1.12;
+  font-weight: 600;
+  letter-spacing: -1.3px;
+  color: #fff;
+  margin-bottom: 35px;
+}
+.kitchen-newsletter-field {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 11px 10px 25px;
+  border-radius: 100px;
+  background: #373737;
+  min-height: 78px;
+  box-shadow: 0 2px 0 #ffffff10;
+}
+.kitchen-newsletter-field:focus-within {
+  outline: 3px solid #f5d65b;
+  outline-offset: 4px;
+}
+.kitchen-newsletter-field input {
+  min-width: 0;
+  width: 100%;
+  background: transparent;
+  color: #fff;
+  border: 0;
+  outline: 0;
+  padding: 13px 0;
+  font-size: 14px;
+}
+.kitchen-newsletter-field input::placeholder {
+  color: #bdc2cc;
+  font-style: italic;
+  opacity: 1;
+}
+.kitchen-newsletter-field > button {
+  flex: 0 0 56px;
+  display: grid;
+  place-items: center;
+  height: 56px;
+  border-radius: 50%;
+  background: #141927;
+  color: #fff;
+  border: 0;
+  transition:
+    background 0.2s,
+    transform 0.2s;
+}
+.kitchen-newsletter-field > button:hover {
+  background: #252d43;
+  transform: translateX(2px);
+}
+.kitchen-newsletter-field > button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+.kitchen-newsletter-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  margin-top: 17px;
+  max-width: 520px;
+  color: #fff5f1;
+  font-size: 10px;
+  line-height: 1.6;
+}
+.kitchen-newsletter-consent input {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  accent-color: #141927;
+  margin-top: 2px;
+}
+.kitchen-newsletter-consent label {
+  cursor: pointer;
+}
+.kitchen-newsletter #newsletter-feedback p {
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.7;
+  margin-top: 16px;
+  max-width: 500px;
+}
+.newsletter-dish-art {
+  position: absolute;
+  z-index: 2;
+  top: -110px;
+  right: 0;
+  width: 39%;
+  height: auto;
+  pointer-events: none;
+  filter: drop-shadow(0 22px 17px #68332133);
+  transform: rotate(12deg);
+}
+.newsletter-lettuce-art {
+  position: absolute;
+  z-index: 2;
+  width: 130px;
+  height: auto;
+  right: -30px;
+  top: 44%;
+  transform: rotate(-12deg);
+  pointer-events: none;
+}
+.newsletter-onion-art {
+  position: absolute;
+  z-index: 2;
+  width: 145px;
+  height: auto;
+  right: 24%;
+  bottom: -55px;
+  transform: rotate(-12deg);
+  pointer-events: none;
+}
+.newsletter-yellow-dot {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  right: 36%;
+  bottom: 45px;
+  background: #f5dc4c;
+}
+.newsletter-blue-dot {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  right: 9%;
+  bottom: 90px;
+  background: #83a5ef;
+}
+.newsletter-spinner {
+  animation: newsletter-spin 1s linear infinite;
+}
+@keyframes newsletter-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.tasting-wine-note {
+  text-align: center;
+  color: #bcb6a9;
+  font-size: 12px;
+  line-height: 1.8;
+  margin: -15px auto 30px;
+  max-width: 540px;
+}
+@media (max-width: 1199px) {
+  .kitchen-story {
+    gap: 38px;
+  }
+  .kitchen-story-copy {
+    padding-bottom: 35px;
+  }
+  .kitchen-food-art {
+    right: -35px;
+    width: 180px;
+  }
+  .kitchen-team-grid {
+    gap: 36px;
+    padding-inline: 15px;
+  }
+  .kitchen-expert-portrait {
+    height: 280px;
+  }
+  .kitchen-newsletter-card {
+    padding: 65px 55px;
+  }
+  .newsletter-dish-art {
+    top: -70px;
+  }
+  .kitchen-newsletter h2 {
+    font-size: 43px;
+  }
+}
+@media (max-width: 991px) {
+  .kitchen-story {
+    gap: 28px;
+    padding-bottom: 70px;
+  }
+  .kitchen-story-copy h2 {
+    font-size: 34px;
+  }
+  .kitchen-story-copy > p:not(.kitchen-eyebrow) {
+    font-size: 13px;
+  }
+  .kitchen-eyebrow {
+    font-size: 10px;
+    letter-spacing: 2.5px;
+  }
+  .kitchen-action {
+    padding: 15px 20px;
+    font-size: 12px;
+  }
+  .kitchen-food-art {
+    width: 140px;
+    bottom: -50px;
+  }
+  .kitchen-expert-portrait {
+    height: 230px;
+  }
+  .kitchen-team-grid {
+    gap: 22px;
+    padding: 0;
+  }
+  .kitchen-team {
+    border-radius: 50px 50px 0 0;
+    padding: 65px 0;
+  }
+  .kitchen-expert h4 {
+    font-size: 20px;
+  }
+  .kitchen-expert p {
+    font-size: 10px;
+  }
+  .restaurant-contact-layout {
+    gap: 35px;
+  }
+  .restaurant-contact-links a {
+    padding: 15px;
+  }
+  .restaurant-contact-links a > span {
+    font-size: 12px;
+  }
+  .kitchen-newsletter-card {
+    padding: 55px 36px;
+    min-height: 460px;
+  }
+  .kitchen-newsletter-content {
+    width: 68%;
+  }
+  .kitchen-newsletter h2 {
+    font-size: 38px;
+  }
+  .newsletter-dish-art {
+    top: -45px;
+    right: -5px;
+    width: 39%;
+  }
+  .kitchen-newsletter-field {
+    min-height: 66px;
+    padding-left: 19px;
+  }
+  .kitchen-newsletter-field > button {
+    flex-basis: 46px;
+    height: 46px;
+  }
+  .kitchen-newsletter-field input {
+    font-size: 12px;
+  }
+  .newsletter-lettuce-art {
+    width: 100px;
+    right: -15px;
+    top: 48%;
+  }
+  .newsletter-onion-art {
+    width: 120px;
+    right: 18%;
+  }
+}
+@media (max-width: 767px) {
+  #chefs.kitchen-experience {
+    padding-top: 40px;
+    margin-top: 35px;
+  }
+  .kitchen-story {
+    grid-template-columns: 1fr;
+    gap: 34px;
+    padding-bottom: 60px;
+  }
+  .kitchen-portrait {
+    max-width: 420px;
+    width: 100%;
+    margin: auto;
+  }
+  .kitchen-portrait > img {
+    max-height: 475px;
+  }
+  .kitchen-story-copy {
+    padding: 0 13px 10px;
+  }
+  .kitchen-story-copy h2 {
+    font-size: 37px;
+    max-width: 410px;
+  }
+  .kitchen-story-copy > p:not(.kitchen-eyebrow) {
+    font-size: 13px;
+  }
+  .kitchen-food-art {
+    width: 125px;
+    right: -24px;
+    bottom: -50px;
+  }
+  .kitchen-team {
+    padding: 65px 0 50px;
+    border-radius: 35px 35px 0 0;
+  }
+  .kitchen-team-heading {
+    padding: 0 18px;
+    margin-bottom: 36px;
+  }
+  .kitchen-team-heading h3 {
+    font-size: 31px;
+  }
+  .kitchen-team-grid {
+    grid-template-columns: repeat(3, 260px);
+    gap: 20px;
+    max-width: 100%;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: #cf6e56 #242423;
+    padding: 0 12px 18px;
+    margin: auto;
+  }
+  .kitchen-expert {
+    scroll-snap-align: center;
+  }
+  .kitchen-expert-portrait {
+    height: 300px;
+  }
+  .kitchen-expert h4 {
+    font-size: 24px;
+    margin-top: 19px;
+  }
+  .kitchen-expert p {
+    font-size: 12px;
+  }
+  .kitchen-expert-mark {
+    right: 14%;
+  }
+  .restaurant-contact {
+    padding: 45px 0;
+  }
+  .restaurant-contact-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .restaurant-contact h2 {
+    font-size: 34px;
+  }
+  .restaurant-contact-links a > span {
+    font-size: 13px;
+  }
+  #newsletter.kitchen-newsletter {
+    padding: 95px 0 70px;
+  }
+  .kitchen-newsletter-card {
+    padding: 180px 24px 55px;
+    border-radius: 28px 125px 28px 28px;
+    min-height: 0;
+    margin-inline: 3px;
+  }
+  .kitchen-newsletter-content {
+    width: 100%;
+  }
+  .newsletter-kicker {
+    font-size: 12px;
+    margin-bottom: 16px;
+  }
+  .kitchen-newsletter h2 {
+    font-size: 34px;
+    line-height: 1.15;
+    margin-bottom: 25px;
+    letter-spacing: -1px;
+  }
+  .newsletter-dish-art {
+    width: 235px;
+    max-width: 70%;
+    top: -75px;
+    right: 0;
+  }
+  .newsletter-lettuce-art {
+    width: 68px;
+    right: -10px;
+    top: 110px;
+  }
+  .newsletter-onion-art {
+    width: 82px;
+    right: 22px;
+    bottom: -35px;
+  }
+  .newsletter-yellow-dot {
+    width: 34px;
+    height: 34px;
+    bottom: 15px;
+    right: 45%;
+  }
+  .newsletter-blue-dot {
+    width: 14px;
+    height: 14px;
+    top: 105px;
+    left: 25px;
+    bottom: auto;
+  }
+  .kitchen-newsletter-field {
+    min-height: 62px;
+    padding: 7px 8px 7px 17px;
+    gap: 4px;
+  }
+  .kitchen-newsletter-field input {
+    font-size: 11px;
+  }
+  .kitchen-newsletter-field > button {
+    flex-basis: 43px;
+    height: 43px;
+  }
+  .kitchen-newsletter-consent {
+    font-size: 9px;
+    margin-top: 15px;
+  }
+  .tasting-wine-note {
+    font-size: 10px;
+    margin: 0 auto 25px;
+  }
+  .tasting-dish-price {
+    font-size: 11px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .newsletter-spinner {
+    animation: none;
+  }
+  .kitchen-action:hover {
+    transform: none;
+  }
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "alici",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-be2ae255-6162-491e-87f2-5e64268e0670.png",
+    "prompt": "Individual premium Italian restaurant food photograph of one specific dish: Golden crispy fried whole small anchovies, a few delicate spinach leaves and a small ramekin of mustard mayonnaise. Center the food on a beautiful ivory stoneware plate, tight appetizing close up at a gentle 45 degree overhead angle. Dark muted walnut tabletop and subtle deep olive background, soft warm side lighting with rich true food colours and realistic texture. Refined Roman restaurant editorial style, actual edible food proportions. One dish only, no people, no words, no logo, no collage or split panels. Square composition suitable for menu thumbnails and a large dish detail image.",
+    "output": "public/images/dishes/alici.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "moscardini",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-75d4e049-3f56-46f1-96f2-ce590bd2fd72.png",
+    "prompt": "Individual premium Italian restaurant food photograph of one specific dish: Crispy lightly floured fried baby octopus, small curled tentacles clearly visible, with a small ramekin of mustard mayonnaise. Center the food on a beautiful ivory stoneware plate, tight appetizing close up at a gentle 45 degree overhead angle. Dark muted walnut tabletop and subtle deep olive background, soft warm side lighting with rich true food colours and realistic texture. Refined Roman restaurant editorial style, actual edible food proportions. One dish only, no people, no words, no logo, no collage or split panels. Square composition suitable for menu thumbnails and a large dish detail image.",
+    "output": "public/images/dishes/moscardini.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "polpo",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-46156289-6b7c-47e8-86e0-777c8c51ece5.png",
+    "prompt": "Individual premium Italian restaurant food photograph of one specific dish: Italian octopus and potato salad: tender octopus chunks with clearly visible suction cups, boiled golden potato pieces, parsley and olive oil. No fried batter. Center the food on a beautiful ivory stoneware plate, tight appetizing close up at a gentle 45 degree overhead angle. Dark muted walnut tabletop and subtle deep olive background, soft warm side lighting with rich true food colours and realistic texture. Refined Roman restaurant editorial style, actual edible food proportions. One dish only, no people, no words, no logo, no collage or split panels. Square composition suitable for menu thumbnails and a large dish detail image.",
+    "output": "public/images/dishes/polpo.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "prosciutto",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-b25bcc9d-b5b7-43c4-9feb-02a370d83bfa.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Thin folded slices of prosciutto crudo beside a fresh round buffalo mozzarella, a little olive oil and basil. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/prosciutto.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "tartare",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-a46e3999-d78e-4a3c-8663-5fedda2dc737.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Finely hand-chopped raw beef tartare formed into a neat low round, crushed tarallo crumbs and a few dark Taggiasca olives. No egg yolk. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/tartare.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "burrata",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-1cd6c075-dcc4-4cdd-ad67-be257273e7a2.png",
+    "prompt": "Individual premium Italian restaurant food photograph: One soft fresh buffalo burrata opened slightly in the centre, with a few anchovy fillets and olive oil. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/burrata.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "ravioli-pesce",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-cf2eb565-2731-4401-98bd-f4a8d0b4dadc.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Handmade square seafood ravioli filled with grouper and sea bass, a restrained light golden sauce, fine pasta texture. No large fish fillet. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/ravioli-pesce.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "ravioli-ricotta",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-45d9597d-411a-440d-93ae-5d8d94038056.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Handmade ricotta and spinach ravioli, butter and a few sage leaves, delicate grated cheese. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/ravioli-ricotta.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "trofietta",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-58a466f2-9296-461c-bb63-955a7d339707.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Italian trofie pasta seafood puttanesca, twisted short pasta with tomato sauce, dark olives, capers and small pieces of seafood. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/trofietta.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "straccetti",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-73912867-40d0-4000-a606-9417b1d6c439.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Thin sauteed beef strips with fresh rocket leaves, shaved grana cheese and diced ripe tomato. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/straccetti.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "salsicce",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-6e4185f4-3182-4d37-9320-cf9097835816.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Two rustic pork sausages braised in red wine with a glossy rich brown sauce and golden roasted potatoes. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/salsicce.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "calamari",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-3095cf50-f035-42b8-801b-9427038a1e50.png",
+    "prompt": "Individual premium Italian restaurant food photograph: Golden lightly floured fried calamari rings and curled tentacles, with a small fresh green salad at the side. No shrimp. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/calamari.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "spada",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-33552276-6a3f-4c19-a2cf-693b672c7dd4.png",
+    "prompt": "Individual premium Italian restaurant food photograph: One grilled swordfish steak with clear seared grill marks and sauteed seasonal vegetables. No salmon. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/spada.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "patate",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-b0a80150-03b6-43dd-be5b-106c918ac34f.png",
+    "prompt": "Individual premium Italian restaurant food photograph: A generous side of golden rosemary roast potato wedges, crisp browned edges and fluffy centres. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/patate.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "cicoria",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-c5a04ab3-c258-48e9-9ce6-233bfb08ddc7.png",
+    "prompt": "Individual premium Italian restaurant food photograph: A small appetizing side of sauteed Italian chicory greens, dark green curled leaves glossy with olive oil, subtle chilli and garlic. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/cicoria.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "fritte",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-51a07245-874b-41ee-b3e2-19157b031157.png",
+    "prompt": "Individual premium Italian restaurant food photograph: A generous side of golden crisp hand-cut French fries, sea salt and a simple white plate. One plated dish only, food filling most of the frame, on ivory stoneware on dark muted walnut table with subtle olive background. Soft warm side lighting, appetizing natural colour and highly realistic edible texture. Gentle overhead dining angle. No text, logo, watermark, people, collage or split panels. Square composition for a Roman restaurant menu and large detail image.",
+    "output": "public/images/dishes/fritte.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "sbriciolata",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-63da833f-f8dd-4ddc-a4d9-da9193397202.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: An elegant chocolate and raspberry crumble dessert, dark chocolate crumb base and cream with fresh raspberries, unmistakably a plated crumble dessert. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/sbriciolata.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "brulee",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-1ce78ec5-e2f8-4e86-9bdb-301953c680cc.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: Citrus crème brûlée in a small shallow ivory ramekin, crisp caramelised amber sugar crust with a little orange zest and a few small citrus segments on the side. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/brulee.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "tiramisu",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-4e355f92-1b12-4c76-b96f-0547ba66686b.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: Classic Italian tiramisu, one beautiful rectangular layered slice with clear mascarpone and coffee-soaked sponge layers, generous cocoa powder top. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/tiramisu.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "gelato",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-756184ef-c61f-4d78-8771-3fb2db42aad9.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: Three scoops of creamy vanilla-coloured Italian gelato in a small ceramic bowl, served with sliced fresh purple figs. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/gelato.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "wine-white",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-a06e8c62-c4da-4c20-9944-ca56785bb74a.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: An elegant crystal stemmed glass of pale straw-gold white Italian wine beside a softly blurred dark green unbranded wine bottle. No readable label. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/wine-white.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "wine-red",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-9ba79f8a-a5bd-4953-9e7c-eb7495589727.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: An elegant crystal stemmed glass of ruby red Italian wine beside a softly blurred dark unbranded wine bottle. No readable label. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/wine-red.webp",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "wine-sparkling",
+    "source": "C:\\Users\\hassa\\.codex\\generated_images\\01a13a7f-1bc9-77f3-a5e5-db492aeebe58\\exec-dbc8a588-0fb3-428f-b74b-12400a5f34e8.png",
+    "prompt": "Individual premium Italian restaurant editorial photograph: An elegant crystal flute filled with pale gold Italian sparkling wine, delicate bubbles rising, beside a softly blurred unbranded green sparkling wine bottle. No readable label. The subject fills most of the square frame, on a dark muted walnut table with subtle olive background and beautiful warm side lighting. Realistic appetizing colour and luxurious natural texture, gentle dining table angle. Food on ivory stoneware. One subject composition, no people, no text, numbers, logos, watermark, collage or split panels. Suitable for restaurant menu thumbnails and a large detail card.",
+    "output": "public/images/dishes/wine-sparkling.webp",
+    "tool": "built-in image_gen"
+  }
+]
